@@ -12,6 +12,7 @@ pipeline {
             steps {
                 sh """
                 echo "Running Unit Tests"
+                echo "Ciao"
                 """
             }
         }
