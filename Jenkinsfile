@@ -45,7 +45,7 @@ pipeline {
           post {
             always {
               script {
-                input message :"Should we continue?", ok:"Yes
+                input message :"Should we continue?", ok:"Yes"
               }
             }
           }
