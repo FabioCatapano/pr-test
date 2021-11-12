@@ -46,6 +46,7 @@ pipeline {
             always {
               script {
                 input message :"Should we continue?", ok:"Yes"
+                build job: 'pr-test', wait: false
               }
             }
           }
