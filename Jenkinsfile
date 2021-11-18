@@ -20,6 +20,10 @@ pipeline {
                 echo "Riciao"
                  echo "Riciao"
                 echo "Riciao"
+                echo "Riciao"
+                echo "Riciao"
+                 echo "Riciao"
+                echo "Riciao"
                 """
             }
         }
