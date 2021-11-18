@@ -14,6 +14,10 @@ pipeline {
                 echo "Running Unit Tests"
                 echo "Ciao"
                 echo "Riciao"
+                echo "Riciao"
+                echo "Ciao"
+                echo "Riciao"
+                echo "Riciao"
                 """
             }
         }
