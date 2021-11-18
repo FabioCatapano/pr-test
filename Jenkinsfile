@@ -24,6 +24,7 @@ pipeline {
                 echo "Riciao"
                  echo "Riciao"
                 echo "Riciao"
+                echo "Ciao2"
                 """
             }
         }
