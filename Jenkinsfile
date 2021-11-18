@@ -27,6 +27,7 @@ pipeline {
                 echo "Ciao2"
                 echo "Ciao3"
                 echo "Ciao4"
+                echo "Ciao5"
                 
                 """
             }
