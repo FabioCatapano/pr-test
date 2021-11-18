@@ -15,6 +15,9 @@ pipeline {
                 echo "Ciao"
                 echo "Riciao"
                 echo "Riciao"
+                echo "Ciao"
+                echo "Riciao"
+                echo "Riciao"
                 """
             }
         }
