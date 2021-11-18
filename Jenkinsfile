@@ -52,11 +52,5 @@ pipeline {
         }
 
     }   
-          post {
-            always {
-              script {
-                input message :"Should we continue?", ok:"Yes"
-              }
-            }
-          }
+
 }
