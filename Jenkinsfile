@@ -30,6 +30,7 @@ pipeline {
                 echo "Ciao5"
                 echo "Ciao5"
                 echo "Ciao5"
+                echo "Ciao5"
                 
                 """
             }
